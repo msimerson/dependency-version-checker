@@ -1,7 +1,7 @@
 {
-  "name": "dependency-version-checker",
-  "version": "1.1.0",
-  "description": "This library allows you to run a check for newer versions against your development and production dependencies, both npm and `git://`/`git+ssh://`.",
+  "name": "@msimerson/dependency-version-checker",
+  "version": "1.1.1",
+  "description": "Check for newer versions of dependencies.",
   "main": "src/logic.js",
   "bin": {
     "dep-versions": "cli.js"
@@ -28,7 +28,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tmakuch/dependency-version-checker.git"
+    "url": "git+https://github.com/msimerson/dependency-version-checker.git"
   },
   "keywords": [
     "git",
@@ -38,7 +38,7 @@
     "updates"
   ],
   "bugs": {
-    "url": "https://github.com/tmakuch/dependency-version-checker/issues"
+    "url": "https://github.com/msimerson/dependency-version-checker/issues"
   },
-  "homepage": "https://github.com/tmakuch/dependency-version-checker#readme"
+  "homepage": "https://www.npmjs.com/package/@msimerson/dependency-version-checker"
 }
